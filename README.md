@@ -1,4 +1,4 @@
-# Task Management using MERN stack (Mongodb, Express.js, React.js and Node.js)
+#  Dashboard Task Management using MERN stack (Mongodb, Express.js, React.js and Node.js)
 
 ## Run project
 
